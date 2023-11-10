@@ -1,17 +1,4 @@
-# Data Analytics (CS301) 
-
 ################################################
-
-# Names: 
-print("The names of this group are the following.")
-print("River Magee")
-print("Luke Lacaria")
-
-################################################
-
-print("The name of this group is the following.")
-print("Young Data Specialists")
-
 rm(list = ls()) # clear out the variables
 # from memory to make a clean execution of the code.
 
@@ -20,15 +7,6 @@ rm(list = ls()) # clear out the variables
 graphics.off() # clear out all plots from previous work.
 
 cat("\014") # clear the console
-
-################################################
-
-# Instructions: Complete this code using
-# RStudio by following the steps in README.md.
-# Note: your code must be able to
-# execute without errors. Please be sure
-# that comments are commended, and code
-# is coded correctly without typographical errors.
 
 # Load the required Libraries
 library(dplyr)
